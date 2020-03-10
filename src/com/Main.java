@@ -1,4 +1,4 @@
-package jdbcdemo;
+package com;
 
 public class Main {
 
