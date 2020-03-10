@@ -1,4 +1,4 @@
-package com;
+package com.db4.app;
 
 public class Main {
 
