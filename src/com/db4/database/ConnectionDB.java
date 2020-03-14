@@ -6,9 +6,9 @@ import java.sql.*;
 public class ConnectionDB {
 	public static Connection instance = null;
 	public static ConnectionDB connectionClass = null;
-	private static String IP = "";
-	private static String portNumber = "";
-	private static String databaseName = "";
+	private static String IP = "127.0.0.1";
+	private static String portNumber = "3306";
+	private static String databaseName = "newjava";
 	private static String username = "root";
 	private static String password = "root";
 	private static boolean created = false;
